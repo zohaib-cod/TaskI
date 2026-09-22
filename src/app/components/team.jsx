@@ -7,7 +7,7 @@ function Team() {
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
       <h1 className="text-2xl font-medium title-font mb-4 text-gray-900">OUR TEAM</h1>
-      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">WMeet the people behind the brand  a dedicated team working together to bring you quality products, great design, and a smooth shopping experience.</p>
+      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Meet the people behind the brand  a dedicated team working together to bring you quality products, great design, and a smooth shopping experience.</p>
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="p-4 lg:w-1/4 md:w-1/2">
