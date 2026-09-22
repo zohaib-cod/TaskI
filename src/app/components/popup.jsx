@@ -88,7 +88,7 @@ const Popup = () => {
         </button>
         <h2 className="text-2xl font-bold text-red-500 mb-3">Note! </h2>
         <p className="text-gray-600 mb-4">
-          Dear Sir, I am Ali Zohaib and I have developed this website (without using Any Ai) as a task for internship. I hope you like it. So as you said its just a dummy landing page.
+          Dear Sir, I am Ali Zohaib and I have developed this website (without using Any Ai) as a task for internship. I hope you like it. So as you said its just a simple and dummy landing page.
         </p>
       </div>
     </div>
